@@ -1,5 +1,4 @@
 import React from 'react';
-import {Logo} from "@/assets/logo.png"
 import { InteractiveHoverButton } from '@/components/ui/interactive-hover-button';
 import { SparklesText } from '@/components/ui/sparkles-text';
 
